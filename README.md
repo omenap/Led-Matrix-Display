@@ -1,1 +1,2 @@
 # Led-Matrix-Display
+This project simply displays whatever we want it to display on the system, it houses a bluetooth module, that enables a device send a string of data that should be updated on the screen. The hardware cicuit can be constructed and connected according to the pins on the code or view the schematic diagram on my instagram handle https://instagram.com/omenap01?utm_medium=copy_link  
